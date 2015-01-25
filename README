@@ -79,9 +79,7 @@ variables.  The $ macro character will only take effect when it is
 placed at the beginning of a symbol so other variables with $'s in
 their names should not be effected.
 
-I hope you find this a useful and interesting experiment.
-
 --
 Burton Samograd
 burton.samograd@gmail.com
-2012
+2015
